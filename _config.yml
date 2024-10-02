@@ -59,8 +59,8 @@ plugins:
 
 author:
   name   : "Rafael"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD in Physics and FONDECYT Postdoctoral Fellow at Universidad Católica de Chile"
+  avatar : "/assets/images/bio-photo1.jpg"
+  bio    : "PhD in Physics. Theoretical Cosmologist. FONDECYT Postdoctoral Fellow at Universidad Católica de Chile"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
