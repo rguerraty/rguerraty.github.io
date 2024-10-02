@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Rafael"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "PhD in Physics and FONDECYT Postdoctoral Fellow at Universidad Católica de Chile"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
