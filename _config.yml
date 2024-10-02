@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Rafael"
-  avatar : "/assets/images/bio-photo1.jpg"
+  avatar : "/assets/images/bio.jpg"
   bio    : "PhD in Physics. Theoretical Cosmologist. FONDECYT Postdoctoral Fellow at Universidad Católica de Chile"
   location : "Santiago, Chile"
   links:
