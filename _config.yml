@@ -115,7 +115,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
----
+
 header:
   image: "/assets/images/universo_cut.jpg"
----
+
