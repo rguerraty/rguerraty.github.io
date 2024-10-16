@@ -3,7 +3,7 @@ permalink: /
 title: "Home"
 header:
   overlay_image: "/assets/images/andes.jpeg"
-layout: archive
+layout: single
 author_profile: true
 ---
 
