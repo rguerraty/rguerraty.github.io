@@ -1,10 +1,11 @@
 ---
 permalink: /
-title: "Home"
+title: "Welcome to my website!"
 header:
   image: "/assets/images/andes.jpeg"
 layout: single
 author_profile: true
+classes: wide
 ---
 
 
