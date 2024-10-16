@@ -15,9 +15,7 @@ main:
     url: /index.html
   - title: "About me"
     url: /about/ 
-  - title: "Publications"
+  - title: "Research"
     url: /posts/
   - title: "Teaching"
     url: /categories/
-  - title: "Projects"
-    url: /tags/
