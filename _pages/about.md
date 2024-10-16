@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About me"
 header:
-  overlay_image: "/assets/images/lss.jpg"
+  overlay_image: "/assets/images/andes.jpeg"
 classes: wide
 layout: splash
 ---
