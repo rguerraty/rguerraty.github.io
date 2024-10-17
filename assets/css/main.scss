@@ -12,3 +12,14 @@ search: false
 footer {
   text-align: center;
 }
+
+/* Ensure the avatar image does not get too small on mobile */
+.avatar {
+  width: 210px;  /* Default size for larger screens */
+  height: auto;
+
+  @media only screen and (max-width: 600px) {
+    width: 120px; /* Minimum size for smaller screens */
+    min-width: 100px; /* Ensures it doesn't shrink below this size */
+  }
+}
