@@ -9,9 +9,9 @@ author_profile: true
 
 ----------------------------------------
 
-I am a Theoretical Cosmologist, currently a Postdoctoral fellow at the Physics Institure of Universidad Católica de Chile. 
+I am a Theoretical Cosmologist and currently a Postdoctoral Fellow at the Physics Institute of Universidad Católica de Chile.
 
-In this website you can find some useful info about me and my research and teaching activities.
+On this website, you can find useful information about me, as well as my research and teaching activities.
 
 ----------------------------------------
 
