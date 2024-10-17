@@ -7,7 +7,7 @@ classes: wide
 layout: splash
 ---
 ----------------------------------------
-<figure style="width: 45%" class="align-right">
+<figure style="width: 35%" class="align-right">
   <img src="/assets/images/leiden.jpg" alt="">
 </figure>
  
