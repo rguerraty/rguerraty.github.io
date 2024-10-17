@@ -6,19 +6,14 @@ header:
 classes: wide
 layout: splash
 ---
-
-
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
+----------------------------------------
 <figure style="width: 45%" class="align-right">
   <img src="/assets/images/leiden.jpg" alt="">
 </figure>
+ 
+I received my BSc in Applied Physics from Universidad de Santiago de Chile. I then completed my PhD in Physics at Universidad de Chile, during which I spent one year as a PhD guest at the Lorentz Institute for Theoretical Physics at the University of Leiden in the Netherlands. After completing my PhD, I was awarded a Swiss Government Excellence Scholarship to pursue a Postdoc at the University of Geneva, where I also joined CERN as an associate member. I am currently a Postdoctoral Fellow at the Catholic University of Chile, funded by the Chilean National Research Agency (ANID).
 
+I also have teaching experience and serving as a peer reviewer for Annals of Physics.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
-
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
-
+----------------------------------------
 
