@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my website!"
+title: "Home"
 header:
   image: "/assets/images/andes.jpeg"
 layout: single
