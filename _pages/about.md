@@ -8,7 +8,7 @@ layout: splash
 ---
 ----------------------------------------
 
-<figure style="width: 38%" class="align-right">
+<figure style="width: 38%"; "min-width: 200px; min-height: 150px;" class="align-right">
   <img src="/assets/images/leidenwall.jpg" alt="">
 </figure>
 
@@ -26,3 +26,5 @@ Outside of physics, I am an enthusiastic mountain biker, focused on Enduro and D
 <figure style="width: 38%" class="align-left">
   <img src="/assets/images/bike.jpeg" alt="">
 </figure>
+
+
