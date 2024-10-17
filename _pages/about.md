@@ -8,7 +8,7 @@ layout: splash
 ---
 ----------------------------------------
 
-<figure style="width: 34%" class="align-right">
+<figure style="width: 38%" class="align-right">
   <img src="/assets/images/leidenwall.jpg" alt="">
 </figure>
 
