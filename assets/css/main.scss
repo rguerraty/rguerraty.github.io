@@ -30,3 +30,18 @@ body.skin-contrast {
 }
 
 
+/* Set a global minimum size for all figures */
+figure {
+  min-width: 300px;
+  min-height: 200px;
+  max-width: 100%;  /* Ensures it doesn’t exceed the container width */
+}
+
+figure img {
+  min-width: inherit;
+  min-height: inherit;
+  max-width: 100%;
+  height: auto;  /* Maintains aspect ratio */
+}
+
+

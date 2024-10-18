@@ -6,14 +6,26 @@ header:
 classes: wide
 layout: splash
 ---
+I am a theoretical physicist specializing in various aspects of high-energy physics and gravity, working at the intersection of particle physics, quantum field theory, general relativity, and cosmology. 
 
+My main scientific goal lies in developing theoretical methods to test fundamental physics in phenomenological setups such as cosmology and gravitational waves. 
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am currently working on understanding the role of genuine nonlinearities—free from gauge artifacts—in the simplest models of cosmic inflation and how these connect to observables in the CMB, large-scale structure (LSS), and gravitational waves, as well as their impact on the production of primordial black holes. I am also interested in establishing an empirically testable relationship between cosmological observables and fundamental principles such as locality, unitarity, and causality.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+----------------------------------------
+### Publications
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+1. **R. Bravo** and G. A. Palma, *“Unifying attractor and non-attractor models of inflation under a single soft theorem"*, [*Phys. Rev. D* **107**, 043524 (2023)](https://doi.org/10.1103/PhysRevD.107.043524)
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+2. **R. Bravo**, G. A. Palma and S. Riquelme M., *“A tip for landscape riders: multi-field Inflation
+can fulfill the swampland distance conjecture"*, [*JCAP* **2002**, no. 02, 004 (2020)](https://doi.org/10.1088/1475-7516/2020/02/004)
+
+3. **R. Bravo**, S. Mooij, G. A. Palma and B. Pradenas, *“Vanishing of local non-Gaussianity in
+canonical single field inflation"*”, [*JCAP* **1805**, 025 (2018)](https://doi.org/10.1088/1475-7516/2018/05/025)
+
+4. **R. Bravo**, S. Mooij, G. A. Palma and B. Pradenas, *“A generalized non-Gaussian consistency relation for single field inflation"*, [*JCAP* **1805**, 024 (2018)](https://doi.org/10.1088/1475-7516/2018/05/024)
+
+5. **R. Bravo** and M. S. Plyushchay, *“Position-dependent mass, finite-gap systems, and supersymmetry"*, [*Phys. Rev. D* **93**, no. 10, 105023 (2016)](http://journals.aps.org/prd/abstract/10.1103/PhysRevD.93.105023)
+
 
 
