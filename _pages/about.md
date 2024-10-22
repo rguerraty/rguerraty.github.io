@@ -17,9 +17,9 @@ I am a Chilean physicist specializing in cosmology.
 I received my BSc in Applied Physics from Universidad de Santiago. I then completed my PhD in Physics at Universidad de Chile, during which I spent one year as a PhD guest at the Lorentz Institute for Theoretical Physics at the University of Leiden in the Netherlands. After completing my PhD, I was awarded a Swiss Government Excellence Scholarship to pursue a Postdoc at the Cosmology and Astroparticle Physics Group of the University of Geneva, where I also joined CERN's Theoretical Physics Department as an Associate Member. I am currently a Postdoctoral Fellow at the Pontificia Universidad Católica de Chile, funded by the Chilean National Research and Development Agency (ANID).
 
 
-Throughout my research career, I have also been involved in teaching activities and have served as a referee for Annals of Physics.
+Throughout my research career, I have also been involved in teaching activities and have served as a referee for *Annals of Physics*.
 
-[Here]() you can find my CV.
+You can find my CV here [<i class="fas fa-file-pdf" aria-hidden="true"></i>]()
 
 ----------------------------------------
 
