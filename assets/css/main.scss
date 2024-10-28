@@ -24,16 +24,11 @@ footer {
   }
 }
 
-/* Change the background color for the body */
-body.skin-contrast {
-  background-color: #c1c9c9;
-}
-
 
 /* Set a global minimum size for all figures */
 figure {
-  min-width: 300px;
-  min-height: 200px;
+  min-width: 200px;
+  min-height: 100px;
   max-width: 100%;  /* Ensures it doesn’t exceed the container width */
 }
 

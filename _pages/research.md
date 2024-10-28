@@ -15,17 +15,17 @@ I am currently working on understanding the role of genuine nonlinearities—fre
 ----------------------------------------
 ### Publications
 
-1. **R. Bravo** and G. A. Palma, *“Unifying attractor and non-attractor models of inflation under a single soft theorem"*, [*Phys. Rev. D* **107**, 043524 (2023)](https://doi.org/10.1103/PhysRevD.107.043524)
+1. **R. Bravo** and G. A. Palma, *“Unifying attractor and non-attractor models of inflation under a single soft theorem"*, [*Phys. Rev. D* **107**, 043524 (2023)](https://doi.org/10.1103/PhysRevD.107.043524) [[arXiv: 2301.12345](https://arxiv.org/abs/2301.12345)]
 
 2. **R. Bravo**, G. A. Palma and S. Riquelme M., *“A tip for landscape riders: multi-field Inflation
-can fulfill the swampland distance conjecture"*, [*JCAP* **2002**, no. 02, 004 (2020)](https://doi.org/10.1088/1475-7516/2020/02/004)
+can fulfill the swampland distance conjecture"*, [*JCAP* **2002**, no. 02, 004 (2020)](https://doi.org/10.1088/1475-7516/2020/02/004) [[arXiv: 1906.05772](https://arxiv.org/abs/1906.05772)]
 
 3. **R. Bravo**, S. Mooij, G. A. Palma and B. Pradenas, *“Vanishing of local non-Gaussianity in
-canonical single field inflation"*”, [*JCAP* **1805**, 025 (2018)](https://doi.org/10.1088/1475-7516/2018/05/025)
+canonical single field inflation"*”, [*JCAP* **1805**, 025 (2018)](https://doi.org/10.1088/1475-7516/2018/05/025) [[arXiv: 1711.05290](https://arxiv.org/abs/1711.05290)]
 
-4. **R. Bravo**, S. Mooij, G. A. Palma and B. Pradenas, *“A generalized non-Gaussian consistency relation for single field inflation"*, [*JCAP* **1805**, 024 (2018)](https://doi.org/10.1088/1475-7516/2018/05/024)
+4. **R. Bravo**, S. Mooij, G. A. Palma and B. Pradenas, *“A generalized non-Gaussian consistency relation for single field inflation"*, [*JCAP* **1805**, 024 (2018)](https://doi.org/10.1088/1475-7516/2018/05/024) [[arXiv: 1711.02680](https://arxiv.org/abs/1711.02680)]
 
-5. **R. Bravo** and M. S. Plyushchay, *“Position-dependent mass, finite-gap systems, and supersymmetry"*, [*Phys. Rev. D* **93**, no. 10, 105023 (2016)](http://journals.aps.org/prd/abstract/10.1103/PhysRevD.93.105023)
+5. **R. Bravo** and M. S. Plyushchay, *“Position-dependent mass, finite-gap systems, and supersymmetry"*, [*Phys. Rev. D* **93**, no. 10, 105023 (2016)](http://journals.aps.org/prd/abstract/10.1103/PhysRevD.93.105023) [[arXiv: 1512.09220](https://arxiv.org/abs/1512.09220)]
 
 
 
