@@ -10,7 +10,7 @@ I am a theoretical physicist specializing in various aspects of high-energy phys
 
 My main scientific goal lies in developing theoretical methods to test fundamental physics in phenomenological setups such as cosmology and gravitational waves. 
 
-I am currently working on understanding the role of genuine nonlinearities—free from gauge artifacts—in the simplest models of cosmic inflation and how these connect to observables in the CMB, large-scale structure (LSS), and gravitational waves, as well as their impact on the production of primordial black holes. I am also interested in establishing an empirically testable relationship between cosmological observables and fundamental principles such as locality, unitarity, and causality.
+I am currently focused on understanding the role of genuine nonlinearities—free from gauge artifacts—in the simplest models of cosmic inflation and exploring how these connect to observables in the CMB, large-scale structure (LSS), and gravitational waves, as well as their impact on the production of primordial black holes. I am also interested in establishing empirically testable relationships between cosmological observables and fundamental principles such as locality, unitarity, and causality.
 
 ----------------------------------------
 ### Publications

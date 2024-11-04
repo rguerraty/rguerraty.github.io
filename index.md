@@ -3,6 +3,7 @@ permalink: /
 title: "Welcome to my website!"
 header:
   image: "/assets/images/andes.jpeg"
+  caption: "View of the Chilean Andes from Santiago"
 layout: single
 author_profile: true
 classes: wide
