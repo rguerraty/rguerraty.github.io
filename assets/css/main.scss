@@ -42,14 +42,14 @@ figure img {
 @media (max-width: 768px) { /* Targeting mobile screens */
     .btn--inverse {
         position: fixed;       /* Fixed position so it stays in view */
-        bottom: 10px;         /* Adjust vertical position */
+        bottom: 5px;         /* Adjust vertical position */
         right: 185px;          /* Adjust horizontal position */
         transform: none;      /* Remove any transformations if any */
     }
     /* Position the author social icons list */
 .author__urls {
     position: fixed;       /* Fixed position to match the button */
-    bottom: 60px;         /* Adjust to be above the Links button */
+    bottom: 20px;         /* Adjust to be above the Links button */
     right: 140px;          /* Same horizontal position */
     transform: none;      /* Remove any transformations if any */
 }
