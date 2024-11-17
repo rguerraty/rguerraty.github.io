@@ -27,9 +27,9 @@ footer {
 
 /* Set a global minimum size for all figures */
 figure {
-  min-width: 200px;
-  min-height: 100px;
-  max-width: 100%;  /* Ensures it doesn’t exceed the container width */
+  min-width: 300px;
+  min-height: 200px;
+  max-width: 400%;  /* Ensures it doesn’t exceed the container width */
 }
 
 figure img {
