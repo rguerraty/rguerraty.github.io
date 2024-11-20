@@ -2,7 +2,7 @@
 permalink: /research/
 title: "Research"
 header:
-  overlay_image: "/assets/images/universo_cut.jpg"
+  overlay_image: "/assets/images/cosmicweb.jpeg"
 classes: wide
 layout: splash
 ---
