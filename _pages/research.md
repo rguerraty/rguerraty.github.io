@@ -27,5 +27,9 @@ canonical single field inflation"*”, [*JCAP* **1805**, 025 (2018)](https://doi
 
 5. **R. Bravo** and M. S. Plyushchay, *“Position-dependent mass, finite-gap systems, and supersymmetry"*, [*Phys. Rev. D* **93**, no. 10, 105023 (2016)](http://journals.aps.org/prd/abstract/10.1103/PhysRevD.93.105023) [[arXiv: 1512.09220](https://arxiv.org/abs/1512.09220)]
 
+----------------------------------------
+### Projects
 
+1. *"Testing the Primordial Signals of our Universe"*, FONDECYT Postdoc. Grant number: 3240730. **PI**: R. Bravo. 
 
+2. *"Primordial Black Holes: A Window to the Primordial Universe Through Gravitational Waves"*, Swiss Federal Department of Economic Affairs, Education and Research. Grant number: 2021.0519. **PI**: R. Bravo. 
