@@ -8,7 +8,7 @@ layout: splash
 ---
 ----------------------------------------
 
-<figure style="width: 50%"  class="align-right">
+<figure style="width: 48%"  class="align-right">
   <img src="/assets/images/leidenwall.jpeg" alt="">
 <figcaption style="text-align: center; width: 100%; font-family: sans-serif; font-size: .7em; font-weight: lighter;">Einstein's equations on a wall in Leiden, the Netherlands</figcaption>
 </figure>
