@@ -3,6 +3,7 @@ permalink: /research/
 title: "Research"
 header:
   overlay_image: "/assets/images/cosmicweb.jpeg"
+  caption: "TNG 300 - Illustris Project"
 classes: wide
 layout: splash
 ---
