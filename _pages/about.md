@@ -2,7 +2,8 @@
 permalink: /about/
 title: "About me"
 header:
-  overlay_image: "/assets/images/andes.jpeg"
+  overlay_image: "/assets/images/atacama.jpeg"
+  caption: "Moon Valley - Atacama Desert"
 classes: wide
 layout: splash
 ---
@@ -19,7 +20,7 @@ I received my BSc in Applied Physics from Universidad de Santiago, where, as an 
 
 For my graduate studies, I moved to Universidad de Chile, where I specialized in early universe cosmology and completed my PhD thesis on topics related to cosmic inflation under the supervision of Professor Gonzalo Palma. As part of my PhD, I spent one year as a guest researcher at the Lorentz Institute for Theoretical Physics at the University of Leiden in the Netherlands, invited by Professor Ana Achúcarro.
 
-After completing my PhD, I was awarded a Swiss Government Excellence Scholarship to undertake a postdoctoral position with the Cosmology and Astroparticle Physics Group at the University of Geneva, hosted by Professor Antonio Riotto. During this period, I focused on topics related to the production of primordial black holes and gravitational waves in cosmology. Additionally, I joined CERN’s Theoretical Physics Department as an associate member.
+After completing my PhD, I was awarded a Swiss Government Excellence Scholarship to undertake a postdoctoral position with the Cosmology and Astroparticle Physics Group at the University of Geneva in Switzerland, hosted by Professor Antonio Riotto. During this period, I focused on topics related to the production of primordial black holes and gravitational waves in cosmology. Additionally, I joined CERN’s Theoretical Physics Department as an associate member.
 
 I am currently a Postdoctoral Fellow at the Pontificia Universidad Católica de Chile, hosted by Professor Máximo Bañados. My research focuses on developing the project *"Testing the Primordial Signals of our Universe"*, funded by the FONDECYT Postdoc initiative of the Chilean National Research and Development Agency (ANID).
 
