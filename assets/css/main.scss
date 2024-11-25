@@ -27,8 +27,8 @@ footer {
 
 /* Set a global minimum size for all figures */
 figure {
-  min-width: 300px;
-  min-height: 200px;
+  min-width: 200px;
+  min-height: 100px;
   max-width: 400%;  /* Ensures it doesn’t exceed the container width */
 }
 
@@ -56,7 +56,7 @@ body {
 .photo-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Responsive columns */
-  gap: 15px; /* Space between photos */
+  gap: 30px; /* Space between photos */
   width: 100%;
   max-width: 1200px; /* Limit grid width */
 }
