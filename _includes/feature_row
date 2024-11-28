@@ -7,6 +7,13 @@
 <div class="feature__wrapper">
 
   {% for f in feature_row %}
+
+    {% if f.url contains "://" %}
+      {% capture f_urls %}{{ f.url }}{% endcapture %}
+    {% else %}
+      {% capture f_url %}{{ f.url | relative_url }}{% endcapture %}
+    {% endif %}
+
     <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
       <div class="archive__item">
         {% if f.image_path %}

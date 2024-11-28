@@ -18,9 +18,9 @@ footer {
   width: 210px;  /* Default size for larger screens */
   height: auto;
 
-  @media only screen and (max-width: 400px) {
-    width: 100px; /* Minimum size for smaller screens */
-    min-width: 80px; /* Ensures it doesn't shrink below this size */
+  @media only screen and (max-width: 600px) {
+    width: 40px; /* Minimum size for smaller screens */
+    min-width: 40px; /* Ensures it doesn't shrink below this size */
   }
 }
 
@@ -32,37 +32,4 @@ body {
 
 
 
-
-
-.photo-gallery {
-  padding: 20px;
-  display: flex;
-  justify-content: center;
-}
-
-.photo-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Responsive columns */
-  gap: 30px; /* Space between photos */
-  width: 100%;
-  max-width: 1200px; /* Limit grid width */
-}
-
-.photo-item {
-  text-align: center;
-}
-
-.photo-item img {
-  width: 100%;
-  height: auto;
-  border-radius: 8px; /* Optional: Add rounded corners */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Add shadow */
-}
-
-.photo-item figcaption {
-  margin-top: 8px;
-  font-size: 0.9em;
-  color: #555;
-  font-family: "Gill Sans", sans-serif; /* Or your preferred font */
-}
 

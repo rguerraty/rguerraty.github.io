@@ -33,3 +33,16 @@ Outside of physics you can find me in the mountains, either on my bike or hiking
 You can find my CV here  [<i class="fas fa-file-pdf" aria-hidden="true"></i>]()
 
 ----------------------------------------
+
+<div style="display: flex; justify-content: left; align-items: center; gap: 100px;">
+  <figure style="width: 20%; margin: 0;">
+    <a href="https://fisica.uc.cl/en/" target="_blank" rel="noopener noreferrer">
+      <img src="/assets/images/sponsors/fisicauc.png" alt="FisicaUC Logo" style="width: 100%; height: auto;">
+    </a>
+  </figure>
+  <figure style="width: 8%; margin: 0;">
+    <a href="https://anid.cl/about-us/" target="_blank" rel="noopener noreferrer">
+      <img src="/assets/images/sponsors/anid.png" alt="ANID Logo" style="width: 100%; height: auto;">
+    </a>
+  </figure>
+</div>

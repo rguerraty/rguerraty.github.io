@@ -13,6 +13,7 @@ My main scientific goal lies in developing theoretical methods to test fundament
 
 I am currently focused on understanding the symmetries of genuine non-linear perturbations in the simplest models of cosmic inflation and exploring how these connect to observables in the cosmic microwave background (CMB) radiation, the galaxy distribution in the large-scale structure (LSS) of the universe, and the stochastic gravitational wave background (SGWB), as well as their potential impact on the production of primordial black holes. I am also working on how fundamental principles such as locality, unitarity, and causality can theoretically constrain our current models of cosmological perturbations, allowing us to compare them with cosmological data.
 
+
 ----------------------------------------
 ### Publications
 
@@ -28,6 +29,7 @@ canonical single field inflation"*”, [*JCAP* **1805**, 025 (2018)](https://doi
 
 5. **R. Bravo** and M. S. Plyushchay, *“Position-dependent mass, finite-gap systems, and supersymmetry"*, [*Phys. Rev. D* **93**, no. 10, 105023 (2016)](http://journals.aps.org/prd/abstract/10.1103/PhysRevD.93.105023) [[arXiv: 1512.09220](https://arxiv.org/abs/1512.09220)]
 
+
 ----------------------------------------
 ### Research Grants
 
@@ -37,11 +39,3 @@ canonical single field inflation"*”, [*JCAP* **1805**, 025 (2018)](https://doi
 
 ----------------------------------------
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 400px;">
-  <figure style="width: 30%; margin: 0;">
-    <img src="/assets/images/sponsors/fisicauc.png" alt="" style="width: 100%; height: auto;">
-  </figure>
-  <figure style="width: 14%; margin: 0;">
-    <img src="/assets/images/sponsors/anid.png" alt="" style="width: 100%; height: auto;">
-  </figure>
-</div>
