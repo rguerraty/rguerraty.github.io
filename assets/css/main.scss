@@ -25,22 +25,9 @@ footer {
 }
 
 
-/* Set a global minimum size for all figures */
-figure {
-  min-width: 200px;
-  min-height: 100px;
-  max-width: 400%;  /* Ensures it doesn’t exceed the container width */
-}
-
-figure img {
-  min-width: inherit;
-  min-height: inherit;
-  max-width: 100%;
-  height: auto;  /* Maintains aspect ratio */
-}
 
 body {
-    font-weight: 250; // Thin font globally
+    font-weight: 250; // Global font thickness 
 }
 
 

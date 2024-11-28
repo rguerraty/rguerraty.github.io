@@ -36,3 +36,12 @@ canonical single field inflation"*”, [*JCAP* **1805**, 025 (2018)](https://doi
 2. *"Primordial Black Holes: A Window to the Primordial Universe Through Gravitational Waves"*,  Swiss Federal Department of Economic Affairs, Education and Research. Grant number: 2021.0519. **PI**: R. Bravo. (2021-2023)
 
 ----------------------------------------
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 400px;">
+  <figure style="width: 30%; margin: 0;">
+    <img src="/assets/images/sponsors/fisicauc.png" alt="" style="width: 100%; height: auto;">
+  </figure>
+  <figure style="width: 13%; margin: 0;">
+    <img src="/assets/images/sponsors/anid.png" alt="" style="width: 100%; height: auto;">
+  </figure>
+</div>
