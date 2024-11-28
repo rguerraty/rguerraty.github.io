@@ -19,12 +19,6 @@ main:
     url: /research/
   - title: "Teaching"
     url: /teaching/
-  #- title: Gallery
-<<<<<<< Updated upstream
-   # url: /gallery/
-=======
-  # url: /gallery/
->>>>>>> Stashed changes
 
   #- title: "Profile"
    # url: /profile/
