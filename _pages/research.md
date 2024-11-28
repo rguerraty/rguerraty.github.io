@@ -41,7 +41,7 @@ canonical single field inflation"*”, [*JCAP* **1805**, 025 (2018)](https://doi
   <figure style="width: 30%; margin: 0;">
     <img src="/assets/images/sponsors/fisicauc.png" alt="" style="width: 100%; height: auto;">
   </figure>
-  <figure style="width: 13%; margin: 0;">
+  <figure style="width: 14%; margin: 0;">
     <img src="/assets/images/sponsors/anid.png" alt="" style="width: 100%; height: auto;">
   </figure>
 </div>
