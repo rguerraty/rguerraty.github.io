@@ -55,7 +55,10 @@
           </a>
         </li>
       {% endif %}
-      
+
+      {% if author.orcid %}
+        <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw icon-pad-right"></i>ORCID</a></li>
+      {% endif %}
       
         <li>
           <a href="https://scholar.google.cl/citations?user=SCurOT4AAAAJ&hl=en" itemprop="sameAs">
