@@ -9,18 +9,18 @@ layout: splash
 ---
 ----------------------------------------
 
-<figure style="width: 48%"  class="align-right">
+<figure style="width: 44%"  class="align-right">
   <img src="/assets/images/leidenwall.jpeg" alt="">
-<figcaption style="text-align: center; width: 100%; font-family: sans-serif; font-size: .7em; font-weight: lighter;">Einstein's equations on a wall in Leiden, the Netherlands</figcaption>
+<figcaption style="text-align: center; width: 100%; font-family: sans-serif; font-size: .7em; font-weight: lighter;">Einstein's equations displayed on a wall in Leiden, Netherlands.</figcaption>
 </figure>
 
 I am a Chilean physicist specializing in cosmology.
 
-I received my BSc in Applied Physics from Universidad de Santiago, where, as an undergraduate, I began conducting research in mathematical physics and supersymmetric quantum mechanics under the supervision of Professor Mikhail Plyushchay.
+I received my BSc in Applied Physics from Universidad de Santiago, where, as an undergraduate, I began doing research in mathematical physics and supersymmetric quantum mechanics under the supervision of Professor Mikhail Plyushchay.
 
-For my graduate studies, I moved to Universidad de Chile, where I specialized in early universe cosmology and completed my PhD thesis on topics related to cosmic inflation under the supervision of Professor Gonzalo Palma. As part of my PhD, I spent one year as a guest researcher at the Lorentz Institute for Theoretical Physics at the University of Leiden in the Netherlands, invited by Professor Ana Achúcarro.
+For my graduate studies, I moved to Universidad de Chile, where I specialized in early universe cosmology and defended my PhD thesis, *"The Role of Primordial Symmetries in the Determination of the Non-Gaussian Properties of Our Universe"*, under the supervision of Professor Gonzalo Palma. As part of my PhD, I spent one year as a guest researcher at the Lorentz Institute for Theoretical Physics at the University of Leiden in the Netherlands, invited by Professor Ana Achúcarro.
 
-After completing my PhD, I was awarded a Swiss Government Excellence Scholarship to undertake a postdoctoral position with the Cosmology and Astroparticle Physics Group at the University of Geneva in Switzerland, hosted by Professor Antonio Riotto. During this period, I focused on topics related to the production of primordial black holes and gravitational waves in cosmology. Additionally, I joined CERN’s Theoretical Physics Department as an associate member.
+After completing my PhD, I was awarded a Swiss Government Excellence Scholarship to develop the project *“Primordial Black Holes: A Window to the Primordial Universe Through Gravitational Waves”* as a postdoctoral researcher with the Cosmology and Astroparticle Physics Group at the University of Geneva, Switzerland, hosted by Professor Antonio Riotto. During this time, I worked on topics related to the production of primordial black holes and gravitational waves in cosmology. Additionally, I joined CERN’s Theoretical Physics Department as an associate member.
 
 I am currently a Postdoctoral Fellow at the Pontificia Universidad Católica de Chile, hosted by Professor Máximo Bañados. My research focuses on developing the project *"Testing the Primordial Signals of our Universe"*, funded by the FONDECYT Postdoc initiative of the Chilean National Research and Development Agency (ANID).
 
