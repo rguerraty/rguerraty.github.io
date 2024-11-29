@@ -137,6 +137,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+  orcid            : "https://orcid.org/0000-0003-1598-9061"    
 
 # Site Footer
 footer:
