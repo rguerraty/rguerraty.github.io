@@ -5,7 +5,6 @@ header:
   overlay_image: "/assets/images/cosmicweb.jpeg"
   caption: "TNG 300 - Illustris Project"
 layout: splash
-classes: wide
 ---
 
 I am a theoretical physicist specializing in various aspects of high-energy physics and gravity, working at the intersection of particle physics, quantum field theory, general relativity, and cosmology. 
