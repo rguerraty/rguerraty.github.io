@@ -18,7 +18,7 @@ I am a Chilean physicist specializing in cosmology.
 
 I received my BSc in Applied Physics from Universidad de Santiago, where, as an undergraduate, I began doing research in mathematical physics and supersymmetric quantum mechanics under the supervision of Professor Mikhail Plyushchay.
 
-For my graduate studies, I moved to Universidad de Chile, where I specialized in early universe cosmology and defended my PhD thesis, *"The Role of Primordial Symmetries in the Determination of the Non-Gaussian Properties of Our Universe"*, under the supervision of Professor Gonzalo Palma. As part of my PhD, I spent one year as a guest researcher at the Lorentz Institute for Theoretical Physics at the University of Leiden in the Netherlands, invited by Professor Ana Achúcarro.
+For my graduate studies, I moved to Universidad de Chile, where I specialized in early universe cosmology and defended my PhD thesis, *"The role of primordial symmetries in the determination of the non-gaussian properties of our universe"*, under the supervision of Professor Gonzalo Palma. As part of my PhD, I spent one year as a guest researcher at the Lorentz Institute for Theoretical Physics at the University of Leiden in the Netherlands, invited by Professor Ana Achúcarro.
 
 After completing my PhD, I was awarded a Swiss Government Excellence Scholarship to develop the project *“Primordial Black Holes: A Window to the Primordial Universe Through Gravitational Waves”* as a postdoctoral researcher with the Cosmology and Astroparticle Physics Group at the University of Geneva, Switzerland, hosted by Professor Antonio Riotto. During this time, I worked on topics related to the production of primordial black holes and gravitational waves in cosmology. Additionally, I joined CERN’s Theoretical Physics Department as an associate member.
 
@@ -31,6 +31,10 @@ Throughout my research career, I have also been involved in teaching activities 
 Outside of physics you can find me in the mountains, either on my bike or hiking. I am an amateur mountain biker in the disciplines of enduro and downhill. Earlier this year (2024), I placed 4th in the *Master A experience* category during the second round of the Chilean National Enduro Championship. 
 
 You can find my CV here  [<i class="fas fa-file-pdf" aria-hidden="true"></i>]()
+
+<a href="https://example.com" style="text-decoration: underline; text-decoration-color: black; color: black;">custom styled link</a>
+
+
 
 ----------------------------------------
 
