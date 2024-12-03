@@ -8,6 +8,12 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+
+/* Global font thickness */
+body {
+    font-weight: 250; 
+}
+
 /* Center the footer text and social icons */
 footer {
   text-align: center;
@@ -19,14 +25,27 @@ footer {
   height: auto;
 
   @media only screen and (max-width: 600px) {
-    width: 40px; /* Minimum size for smaller screens */
-    min-width: 40px; /* Ensures it doesn't shrink below this size */
+    width: 130px; /* Minimum size for smaller screens */
+    min-width: 60px; /* Ensures it doesn't shrink below this size */
   }
 }
 
 
 
-body {
-    font-weight: 250; // Global font thickness 
+img:not(.u-photo) {
+  max-width: 100%; /* Ensures other images scale with the container */
+  height: auto;    /* Maintains aspect ratio */
 }
+
+@media (max-width: 768px) {
+  img:not(.u-photo) {
+    min-width: 150%; /* Sets a minimum width */
+    min-height: auto; /* Sets a minimum height */
+  }
+}
+
+
+
+
+
 
