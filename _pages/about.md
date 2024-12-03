@@ -16,7 +16,7 @@ For my graduate studies, I moved to Universidad de Chile, where I specialized in
 
 
 <figure style="width: 44%; margin: 20px;"  class="align-right">
-  <img src="/assets/images/leiden.png" alt="">
+  <img src="/assets/images/leidenwall.jpeg" alt="">
 <figcaption style="text-align: center; width: 100%; font-family: sans-serif; font-size: .7em; font-weight: lighter;">Einstein's equations displayed on a wall in Leiden, Netherlands.</figcaption>
 </figure>
 
