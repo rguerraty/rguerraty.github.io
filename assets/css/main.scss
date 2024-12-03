@@ -32,13 +32,13 @@ footer {
 
 
 
-img:not(.u-photo) {
+img:not(.u-photo):not(.page__hero-image) {
   max-width: 100%; /* Ensures other images scale with the container */
   height: auto;    /* Maintains aspect ratio */
 }
 
 @media (max-width: 768px) {
-  img:not(.u-photo) {
+  img:not(.u-photo):not(.page__hero-image) {
     min-width: 170%; /* Sets a minimum width */
     min-height: auto; /* Sets a minimum height */
   }
