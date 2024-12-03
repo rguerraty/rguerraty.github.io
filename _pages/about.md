@@ -10,7 +10,7 @@ layout: splash
 ----------------------------------------
 
 <figure style="width: 44%"  class="align-right">
-  <img src="/assets/images/leiden.jpg" alt="">
+  <img src="/assets/images/leiden.png" alt="">
 <figcaption style="text-align: center; width: 100%; font-family: sans-serif; font-size: .7em; font-weight: lighter;">Einstein's equations displayed on a wall in Leiden, Netherlands.</figcaption>
 </figure>
 
