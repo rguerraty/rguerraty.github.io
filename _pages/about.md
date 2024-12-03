@@ -15,7 +15,7 @@ I received my BSc in Applied Physics from Universidad de Santiago, where, as an 
 For my graduate studies, I moved to Universidad de Chile, where I specialized in early universe cosmology and defended my PhD thesis, <a href="https://repositorio.uchile.cl/handle/2250/181845" style="text-decoration: underline; text-decoration-color: black; color: black;">*"The role of primordial symmetries in the determination of the non-gaussian properties of our universe,"*</a> under the supervision of Professor <a href="https://portafolio-academico.uchile.cl/perfil/46164-Gonzalo-Alejandro-Palma-Quilodrán" style="text-decoration: underline; text-decoration-color: black; color: black;">Gonzalo Palma</a>. As part of my PhD, I spent one year as a guest researcher at the Lorentz Institute for Theoretical Physics at the University of Leiden in the Netherlands, invited by Professor <a href="https://en.wikipedia.org/wiki/Ana_Achúcarro" style="text-decoration: underline; text-decoration-color: black; color: black;">Ana Achúcarro</a>.
 
 
-<figure style="width: 44%; margin: 0;"  class="align-right">
+<figure style="width: 44%; margin: 20px;"  class="align-right">
   <img src="/assets/images/leiden.png" alt="">
 <figcaption style="text-align: center; width: 100%; font-family: sans-serif; font-size: .7em; font-weight: lighter;">Einstein's equations displayed on a wall in Leiden, Netherlands.</figcaption>
 </figure>
@@ -34,12 +34,12 @@ Outside of physics you can find me in the mountains, either on my bike or hiking
 ----------------------------------------
 
 <div style="display: flex; justify-content: left; align-items: center; gap: 100px;">
-  <figure style="width: 22%; margin: 0;">
+  <figure style="width: 20%; margin: 0;">
     <a href="https://fisica.uc.cl/en/" target="_blank" rel="noopener noreferrer">
       <img src="/assets/images/logos/fisicauc.png" alt="FisicaUC Logo" style="width: 100%; height: auto;">
     </a>
   </figure>
-  <figure style="width: 10%; margin: 0;">
+  <figure style="width: 8%; margin: 0;">
     <a href="https://anid.cl/about-us/" target="_blank" rel="noopener noreferrer">
       <img src="/assets/images/logos/anid.png" alt="ANID Logo" style="width: 100%; height: auto;">
     </a>
