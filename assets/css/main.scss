@@ -39,7 +39,7 @@ img:not(.u-photo):not(.page__hero-image) {
 
 @media (max-width: 768px) {
   img:not(.u-photo):not(.page__hero-image) {
-    min-width: 170%; /* Sets a minimum width */
+    min-width: 180%; /* Sets a minimum width */
     min-height: auto; /* Sets a minimum height */
   }
 }
