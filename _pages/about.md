@@ -7,7 +7,8 @@ header:
 classes: wide
 layout: splash
 ---
-----------------------------------------
+
+
 I am a Chilean physicist specializing in cosmology.
 
 I received my BSc in Applied Physics from Universidad de Santiago, where, as an undergraduate, I began doing research in mathematical physics and supersymmetric quantum mechanics under the supervision of Professor <a href="https://fisica.postgrado.usach.cl/en/mikhail-plyushchay" style="text-decoration: underline; text-decoration-color: black; color: black;">Mikhail Plyushchay</a>.
