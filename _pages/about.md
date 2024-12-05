@@ -13,7 +13,7 @@ I am a Chilean physicist specializing in cosmology.
 
 I received my BSc in Applied Physics from Universidad de Santiago, where, as an undergraduate, I began doing research in mathematical physics and supersymmetric quantum mechanics under the supervision of Professor <a href="https://fisica.postgrado.usach.cl/en/mikhail-plyushchay" style="color: #6f99b0; text-decoration: none;">Mikhail Plyushchay</a>.
 
-For my graduate studies, I moved to Universidad de Chile, where I specialized in early universe cosmology and defended my PhD thesis, <a href="https://repositorio.uchile.cl/handle/2250/181845" style="color: #6f99b0; text-decoration: none;">*"The role of primordial symmetries in the determination of the non-gaussian properties of our universe,"*</a> under the supervision of Professor <a href="https://portafolio-academico.uchile.cl/perfil/46164-Gonzalo-Alejandro-Palma-Quilodrán" style="color: #6f99b0; text-decoration: none;">Gonzalo Palma</a>. As part of my PhD, I spent one year as a guest researcher at the Lorentz Institute for Theoretical Physics at the University of Leiden in the Netherlands, invited by Professor <a href="https://en.wikipedia.org/wiki/Ana_Achúcarro" style="color: #6f99b0; text-decoration: none;">Ana Achúcarro</a>.
+For my graduate studies, I moved to Universidad de Chile, where I specialized in early universe cosmology and defended my PhD thesis, <a href="https://repositorio.uchile.cl/handle/2250/181845" style="color: #6f99b0; text-decoration: none;">*"The role of primordial symmetries in the determination of the non-gaussian properties of our universe"*</a>, under the supervision of Professor <a href="https://portafolio-academico.uchile.cl/perfil/46164-Gonzalo-Alejandro-Palma-Quilodrán" style="color: #6f99b0; text-decoration: none;">Gonzalo Palma</a>. As part of my PhD, I spent one year as a guest researcher at the Lorentz Institute for Theoretical Physics at the University of Leiden in the Netherlands, invited by Professor <a href="https://en.wikipedia.org/wiki/Ana_Achúcarro" style="color: #6f99b0; text-decoration: none;">Ana Achúcarro</a>.
 
 
 <figure style="width: 44%; margin: 20px;"  class="align-right">
@@ -30,7 +30,7 @@ I am currently a Postdoctoral Fellow at the Pontificia Universidad Católica de 
 Throughout my research career, I have also been involved in teaching activities and have served as a referee for *Annals of Physics*.
 
 
-Outside of physics you can find me in the mountains, either on my bike or hiking. I am an amateur mountain biker in the disciplines of enduro and downhill. Earlier this year (2024), I placed 4th in the *Master A experience* category during the second round of the Chilean National Enduro Championship. 
+Outside of physics you can find me in the mountains, either on my bike [<i class="fa-regular fa-image" aria-hidden="true" style="color: black; font-size: 18px;"></i>](/assets/images/bike.jpeg)  or hiking [<i class="fa-regular fa-image" aria-hidden="true" style="color: black; font-size: 18px;"></i>](/assets/images/pintor.jpeg). I am an amateur mountain biker in the disciplines of enduro and downhill. Earlier this year (2024), I placed 4th in the *Master A experience* category during the second round of the Chilean National Enduro Championship. 
 
 ----------------------------------------
 
