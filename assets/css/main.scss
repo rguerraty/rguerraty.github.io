@@ -31,19 +31,17 @@ footer {
 }
 
 
-
-img:not(.u-photo):not(.page__hero-image) {
+img:not(.u-photo):not(.page__hero-image):not(.lb-image) {
   max-width: 100%; /* Ensures other images scale with the container */
   height: auto;    /* Maintains aspect ratio */
 }
 
 @media (max-width: 768px) {
-  img:not(.u-photo):not(.page__hero-image) {
+  img:not(.u-photo):not(.page__hero-image):not(.lb-image) {
     min-width: 180%; /* Sets a minimum width */
     min-height: auto; /* Sets a minimum height */
   }
 }
-
 
 
 
