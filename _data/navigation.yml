@@ -16,7 +16,7 @@ main:
   - title: "About me"
     url: /about/ 
   - title: "Research"
-    url: /research/
+    url: /myresearch/
   - title: "Teaching"
     url: /teaching/
 
