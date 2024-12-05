@@ -32,6 +32,7 @@ Throughout my research career, I have also been involved in teaching activities 
 
 Outside of physics you can find me in the mountains, either on my bike [<i class="fa-regular fa-image" aria-hidden="true" style="color: black; font-size: 18px;"></i>](/assets/images/bike.jpeg)  or hiking [<i class="fa-regular fa-image" aria-hidden="true" style="color: black; font-size: 18px;"></i>](/assets/images/pintor.jpeg). I am an amateur mountain biker in the disciplines of enduro and downhill. Earlier this year (2024), I placed 4th in the *Master A experience* category during the second round of the Chilean National Enduro Championship. 
 
+
 ----------------------------------------
 
 <div style="display: flex; justify-content: left; align-items: center; gap: 100px;">
