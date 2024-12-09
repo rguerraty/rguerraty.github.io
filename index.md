@@ -23,6 +23,6 @@ On this website, you will find useful information about me and my research.
     <script 
         type="text/javascript" 
         id="clustrmaps" 
-        src="//cdn.clustrmaps.com/map_v2.js?cl=dbdbdb&w=340&t=n&d=2HYtPSKFus7jrqVYFHOqRaCPyFzeZ7V9rm6Q1z2qkrg&co=f3f3f3&cmo=ab6700&cmn=ff9a02">
+        src="//cdn.clustrmaps.com/map_v2.js?cl=dbdbdb&w=360&t=n&d=2HYtPSKFus7jrqVYFHOqRaCPyFzeZ7V9rm6Q1z2qkrg&co=f3f3f3&cmo=ab6700&cmn=ff9a02">
     </script>
 </div>
