@@ -45,9 +45,3 @@ img:not(.u-photo):not(.page__hero-image):not(.lb-image) {
 
 
 
-/* For mobile devices */
-@media screen and (max-width: 600px) {
-  #map-container {
-     max-width: 340px; /* Smaller size for mobile */
-        }
-    }
