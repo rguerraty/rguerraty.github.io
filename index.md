@@ -20,5 +20,22 @@ On this website, you will find useful information about me and my research.
 ----------------------------------------
 
 <div id="clustrmap-container">
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=808080&w=400&t=n&d=2HYtPSKFus7jrqVYFHOqRaCPyFzeZ7V9rm6Q1z2qkrg&co=f3f3f3&ct=808080&cmo=a15906&cmn=d47506'></script>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=dbdbdb&w=540&t=n&d=2HYtPSKFus7jrqVYFHOqRaCPyFzeZ7V9rm6Q1z2qkrg&co=f3f3f3&cmo=ab6700&cmn=ff9a02"></script>
 </div>
+
+<style>
+    /* Default size for large screens */
+    #clustrmap-container iframe {
+        width: 540px;
+        height: auto; /* Adjust the height automatically */
+    }
+
+    /* Smaller size for mobile devices */
+    @media screen and (max-width: 768px) {
+        #clustrmap-container iframe {
+            width: 320px; /* Reduce the width for small screens */
+            height: auto; /* Maintain aspect ratio */
+        }
+    }
+</style>
+
