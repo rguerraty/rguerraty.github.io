@@ -13,6 +13,37 @@ My main scientific goal lies in developing theoretical methods to test fundament
 
 I am currently focused on understanding the symmetries of genuine non-linear perturbations in the simplest models of cosmic inflation and exploring how these connect to observables in the cosmic microwave background (CMB) radiation, the galaxy distribution in the large-scale structure (LSS) of the universe, and the stochastic gravitational wave background (SGWB), as well as their potential impact on the production of primordial black holes. I am also working on how fundamental principles such as locality, unitarity, and causality can theoretically constrain our current models of cosmological perturbations, allowing us to compare them with cosmological data.
 
+
+<figure style="width: 36%" class="align-right">
+  <img src="/assets/images/content/timeline.jpg" alt="" align="left" hspace="5">
+<figcaption style="text-align: center; width: 100%; font-family: sans-serif; font-size: .7em; font-weight: lighter;">Universe timeline. Credit: NASA/WMAP team</figcaption>
+</figure>
+&nbsp;
+
+**Cosmic Inflation** is the theory bla bla bla I am currently focused on understanding the symmetries of genuine non-linear perturbations in the simplest models of cosmic inflation and exploring how these connect to observables in the cosmic microwave background (CMB) radiation, the galaxy distribution in the large-scale structure (LSS) of the universe, and the stochastic gravitational wave background (SGWB), as well as their potential impact on the production of primordial black holes. 
+<br clear="right">
+
+
+<figure style="width: 40%" class="align-left">
+  <img src="/assets/images/content/gravitywave.gif" alt="">
+<figcaption style="text-align: center; width: 100%; font-family: sans-serif; font-size: .7em; font-weight: lighter;">Simulation of the gravitational wave emission from the merging of two black holes. Credit: LIGO/T. Pyle</figcaption>
+</figure>
+&nbsp;
+
+**Gravitational Waves** is the theory bla bla bla I am currently focused on understanding the symmetries of genuine non-linear perturbations in the simplest models of cosmic inflation and exploring how these connect to observables in the cosmic microwave background (CMB) radiation, the galaxy distribution in the large-scale structure (LSS) of the universe, and the stochastic gravitational wave background (SGWB), as well as their potential impact on the production of primordial black holes. 
+<br clear="left">
+
+<figure style="width: 36%" class="align-right">
+  <img src="/assets/images/content/eft.png" alt="" align="left" hspace="5">
+<figcaption style="text-align: center; width: 100%; font-family: sans-serif; font-size: .7em; font-weight: lighter;">Universe timeline. Credit: NASA/WMAP team</figcaption>
+</figure>
+&nbsp;
+
+**Effective Field Theory** is the theory bla bla bla I am currently focused on understanding the symmetries of genuine non-linear perturbations in the simplest models of cosmic inflation and exploring how these connect to observables in the cosmic microwave background (CMB) radiation, the galaxy distribution in the large-scale structure (LSS) of the universe, and the stochastic gravitational wave background (SGWB), as well as their potential impact on the production of primordial black holes.
+<br clear="right">
+
+
+
 ----------------------------------------
 <details>
   <summary><strong>Publications</strong></summary>
