@@ -12,17 +12,88 @@ I have taught undergraduate and graduate courses such as General Relativity, Cla
 Resources from my courses will be posted here soon.
 
 ----------------------------------------
-### Teaching Experience
+
+<details>
+  <summary><strong>Teaching Experience</strong></summary>
+&nbsp;
+<table>
+  <thead>
+    <tr>
+      <th><strong>Course</strong></th>
+      <th><strong>Level</strong></th>
+      <th><strong>Program</strong></th>
+      <th><strong>Title</strong></th>
+      <th><strong>Institution</strong></th>
+      <th><strong>Period</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Introduction to Newtonian Physics</strong></td>
+      <td>Undergraduate</td>
+      <td>Engineering</td>
+      <td>Lecturer</td>
+      <td>Universidad de Chile</td>
+      <td>Jan 2024</td>
+    </tr>
+    <tr>
+      <td><strong>Electromagnetism</strong></td>
+      <td>Undergraduate</td>
+      <td>Engineering</td>
+      <td>Lecturer</td>
+      <td>Universidad de Santiago de Chile</td>
+      <td>Apr 2021 - Aug 2021</td>
+    </tr>
+    <tr>
+      <td><strong>Physics Fundamentals</strong></td>
+      <td>Undergraduate</td>
+      <td>Engineering</td>
+      <td>Lecturer</td>
+      <td>Universidad Andrés Bello</td>
+      <td>Apr 2021 - Aug 2021</td>
+    </tr>
+    <tr>
+      <td><strong>Mathematical-Physics Models</strong></td>
+      <td>Undergraduate</td>
+      <td>Engineering</td>
+      <td>Lecturer</td>
+      <td>Universidad Andrés Bello</td>
+      <td>Apr 2021 - Aug 2021</td>
+    </tr>
+    <tr>
+      <td><strong>Classical Mechanics</strong></td>
+      <td>Undergraduate</td>
+      <td>Physics & Astronomy</td>
+      <td>Lecturer</td>
+      <td>Universidad Andrés Bello</td>
+      <td>Aug 2020 - Dec 2020</td>
+    </tr>
+    <tr>
+      <td><strong>General Relativity</strong></td>
+      <td>Graduate</td>
+      <td>Physics</td>
+      <td>Teaching Assistant</td>
+      <td>Universidad de Chile</td>
+      <td>Mar 2018 - Aug 2018</td>
+    </tr>
+    <tr>
+      <td><strong>Thermodynamics Lab</strong></td>
+      <td>Undergraduate</td>
+      <td>Physics</td>
+      <td>Teaching Assistant</td>
+      <td>Universidad de Santiago de Chile</td>
+      <td>Aug 2014 - Dec 2014</td>
+    </tr>
+    <tr>
+      <td><strong>Linear Algebra</strong></td>
+      <td>Undergraduate</td>
+      <td>Physics</td>
+      <td>Teaching Assistant</td>
+      <td>Universidad de Santiago de Chile</td>
+      <td>Mar 2014 - Aug 2015</td>
+    </tr>
+  </tbody>
+</table>
 
 
-| Course                                |    Level    | Program            | Title              | Institution                      | Period              |
-|---------------------------------------|-------------|--------------------|--------------------|----------------------------------|---------------------|
-| **Introduction to Newtonian Physics** |Undergraduate| Engineering        | Lecturer           | Universidad de Chile             | Jan 2024            |
-| **Electromagnetism**                  |Undergraduate| Engineering        | Lecturer           | Universidad de Santiago de Chile | Apr 2021 - Aug 2021 |
-| **Physics Fundamentals**              |Undergraduate| Engineering        | Lecturer           | Universidad Andrés Bello         | Apr 2021 - Aug 2021 |
-| **Mathematical-Physics Models**       |Undergraduate| Engineering        | Lecturer           | Universidad Andrés Bello         | Apr 2021 - Aug 2021 |
-| **Classical Mechanics**               |Undergraduate| Physics & Astronomy| Lecturer           | Universidad Andrés Bello         | Aug 2020 - Dec 2020 |
-| **General Relativity**                |Graduate     | Physics            | Teaching Assistant | Universidad de Chile             | Mar 2018 - Aug 2018 |
-| **Thermodynamics Lab**                |Undergraduate| Physics            | Teaching Assistant | Universidad de Santiago de Chile | Aug 2014 - Dec 2014 |
-| **Linear Algebra**                    |Undergraduate| Physics            | Teaching Assistant | Universidad de Santiago de Chile | Mar 2014 - Aug 2015 |
-
+</details>
