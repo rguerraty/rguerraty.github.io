@@ -41,7 +41,7 @@ I am currently focused on understanding the symmetries of genuine non-linear per
 </figure>
 &nbsp;
 
-An **Effective Field Theory** is a description of a physical system by separating the degrees of freedom according to the relevant energy scale of interest. The process begins with a low-energy model, identifies the light particle spectrum, and subsequently builds a UV completion based on it. Generally, one imposes assumptions about the fundamental UV theory, which in turn yields powerful constraints that the IR physics must satisfy. Assuming that the complete theory obeys the principles of quantum field theory (QFT) and relativity—namely unitarity, analyticity, locality, and Lorentz invariance—it follows that, the scattering matrix S must be unitary, causal, and analytic.
+An **Effective Field Theory** is a description of a physical system by separating the degrees of freedom according to the relevant energy scale of interest. The process begins with a low-energy model, identifies the light particle spectrum, and subsequently builds a UV completion based on it. Generally, one imposes assumptions about the fundamental UV theory, which in turn yields powerful constraints that the IR physics must satisfy. Assuming that the complete theory obeys the principles of quantum field theory (QFT) and relativity—namely unitarity, analyticity, locality, and Lorentz invariance—it follows that, the S-Matrix must be unitary, causal, and analytic.
 <br clear="right">
 
 
