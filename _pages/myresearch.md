@@ -15,7 +15,7 @@ I am currently focused on understanding the symmetries of genuine non-linear per
 
 ----------------------------------------
 
-<figure style="width: 38%" class="align-right">
+<figure style="width: 40%" class="align-right">
   <img src="/assets/images/content/timeline.jpg" alt="" align="left" hspace="5">
 <figcaption style="text-align: center; width: 100%; font-family: sans-serif; font-size: .7em; font-weight: lighter;">Universe timeline. Credit: NASA/WMAP team</figcaption>
 </figure>
@@ -25,14 +25,21 @@ I am currently focused on understanding the symmetries of genuine non-linear per
 &nbsp;
 
 
+
+
 <figure style="width: 38%; " class="align-left">
   <img src="/assets/images/content/gravitywave.gif" alt="">
 <figcaption style="text-align: center; width: 100%; font-family: sans-serif; font-size: .7em; font-weight: lighter;">Visualization of the gravitational wave emission from the merging of two black holes. Credit: LIGO/T. Pyle</figcaption>
 </figure> 
 &nbsp;
 
+
 **Gravitational Waves** are spacetime fluctuations propagating over itself. They are a fundamental prediction of General Relativity and can be understood as radiation emitted by the gravitational field. Gravitational waves were first detected back in 2015 with the interferometers of the Advanced LIGO collaboration, which observed the waves produced by the collision of a binary black hole system. Gravitational waves can also be produced by cosmological sources; for instance, during inflation, vacuum and scalar fluctuations can source gravitational waves. We expect to detect such signals with the next generation of interferometers like LISA and the Einstein Telescope. 
 &nbsp; 
+
+
+
+
 
 <figure style="width: 40%" class="align-right">
   <img src="/assets/images/content/eft.png" alt="" align="left" hspace="5">
