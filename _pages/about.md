@@ -30,7 +30,7 @@ I am currently a Postdoctoral Fellow at the Pontificia Universidad Católica de 
 Throughout my research career, I have also been involved in teaching activities and have served as a referee for *Annals of Physics*.
 
 
-Outside of physics you can find me in the mountains, either on my bike or hiking <a href="/assets/images/bike.jpeg" data-lightbox="image-set" data-title="Flying on my bike at Cerro San Cristobal in Santiago"><i class="fa-regular fa-images" aria-hidden="true" style="color: #6f99b0; font-size: 20px;"></i></a><a href="/assets/images/pintor.jpeg" data-lightbox="image-set" data-title="Summit of Cerro Pintor at 4180 MASL. In the background you can see Cerro el Plomo (5424 MASL)"></a>. I am an amateur mountain biker in the disciplines of enduro and downhill. Earlier last year (2024), I got a 4th place in the second round of the Chilean National Enduro Championship, *Enduroseries*. 
+Outside of physics, you can find me in the mountains, either on my bike or hiking <a href="/assets/images/bike.jpeg" data-lightbox="image-set" data-title="Flying on my bike at Cerro San Cristobal in Santiago"><i class="fa-regular fa-images" aria-hidden="true" style="color: #6f99b0; font-size: 20px;"></i></a><a href="/assets/images/pintor.jpeg" data-lightbox="image-set" data-title="Summit of Cerro Pintor at 4180 MASL. In the background you can see Cerro el Plomo (5424 MASL)"></a>. I am an amateur mountain biker in the disciplines of enduro and downhill. Early last year (2024), I got a 4th place in the second round of the Chilean National Enduro Championship, *Enduroseries*. 
 
 
 
