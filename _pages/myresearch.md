@@ -15,7 +15,7 @@ I am currently focused on understanding the symmetries of genuine non-linear per
 
 ----------------------------------------
 
-<figure style="width: 40%" class="align-right">
+<figure style="width: 29%" class="align-right">
   <img src="/assets/images/content/timeline.jpg" alt="" align="left" hspace="5">
 <figcaption style="text-align: center; width: 100%; font-family: sans-serif; font-size: .7em; font-weight: lighter;">Universe timeline. Credit: NASA/WMAP team</figcaption>
 </figure>
@@ -27,29 +27,27 @@ I am currently focused on understanding the symmetries of genuine non-linear per
 
 
 
-<figure style="width: 38%; " class="align-left">
+<figure style="width: 34%; " class="align-left">
   <img src="/assets/images/content/gravitywave.gif" alt="">
 <figcaption style="text-align: center; width: 100%; font-family: sans-serif; font-size: .7em; font-weight: lighter;">Visualization of the gravitational wave emission from the merging of two black holes. Credit: LIGO/T. Pyle</figcaption>
 </figure> 
 &nbsp;
 
 
-**Gravitational Waves** are spacetime fluctuations propagating over itself. They are a fundamental prediction of General Relativity and can be understood as radiation emitted by the gravitational field. Gravitational waves were first detected back in 2015 with the interferometers of the Advanced LIGO collaboration, which observed the waves produced by the collision of a binary black hole system. Gravitational waves can also be produced by cosmological sources; for instance, during inflation, vacuum and scalar fluctuations can source gravitational waves. We expect to detect such signals with the next generation of interferometers like LISA and the Einstein Telescope. 
+**Gravitational Waves** (GWs) are spacetime fluctuations propagating through itself. They are a fundamental prediction of General Relativity and can be seen as radiation emitted by the gravitational field. GWs were first detected in 2015 by LIGO, which observed the radiation from a binary black hole merger. Cosmological sources, such as inflationary vacuum and scalar fluctuations, can also produce GWs. Future interferometers like LISA and the Einstein Telescope aim to detect these primordial signals.
 &nbsp; 
 
 
 
 
-
-<figure style="width: 40%" class="align-right">
+<figure style="width: 34%" class="align-right">
   <img src="/assets/images/content/eft.png" alt="" align="left" hspace="5">
 <figcaption style="text-align: center; width: 100%; font-family: sans-serif; font-size: .7em; font-weight: lighter;">Feynman diagram of the photon-photon scattering. Left: Full QED (UV). Right: (IR) Low energy EFT</figcaption>
 </figure>
 &nbsp;
 
-An **Effective Field Theory** is a description of a physical system by separating the degrees of freedom according to the relevant energy scale of interest. The process begins with a low-energy model, identifies the light particle spectrum, and subsequently builds a UV completion based on it. Generally, one imposes assumptions about the fundamental UV theory, which in turn yields powerful constraints that the IR physics must satisfy. Assuming that the complete theory obeys the principles of quantum field theory (QFT) and relativity—namely unitarity, analyticity, locality, and Lorentz invariance—it follows that, the S-Matrix must be unitary, causal, and analytic.
+An **Effective Field Theory** (EFT) is the description of a physical system by separating degrees of freedom based on energy scales. It starts with a low-energy model, identifies the light particle spectrum, and constructs a UV completion. Assumptions about the fundamental UV theory impose constraints on IR physics. If the full theory follows quantum field theory (QFT) and relativity—specifically unitarity, analyticity, locality, and Lorentz invariance—the S-Matrix must also be unitary, causal, and analytic.
 <br clear="right">
-
 
 ----------------------------------------
 <details>
