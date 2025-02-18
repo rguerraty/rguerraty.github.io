@@ -18,7 +18,7 @@ For my graduate studies, I moved to Universidad de Chile, where I specialized in
 
 <figure style="width: 44%; margin: 20px;"  class="align-right">
   <img src="/assets/images/leidenwall.jpeg" alt="">
-<figcaption style="text-align: center; width: 100%; font-family: sans-serif; font-size: .7em; font-weight: lighter;">Einstein's equations displayed on a wall in Leiden, Netherlands.</figcaption>
+<figcaption style="text-align:center; width: 100%; font-family: sans-serif; font-size: .7em; font-weight: lighter;">Einstein's equations displayed on a wall in Leiden, Netherlands.</figcaption>
 </figure>
 
 
@@ -50,5 +50,7 @@ Outside of physics, you can find me in the mountains, either on my bike or hikin
       <img src="/assets/images/logos/anid.png" alt="ANID Logo" style="width: 100%; height: auto;">
     </a>
   </figure>
+	<a href="https://sites.google.com/view/cosmology-in-chile/inicio" style="color: black; font-size:16pt; font-family:'Verdana'; font-weight:bold; text-decoration: none; text-align:center;"> Cosmology<br/>in Chile <br/> &nbsp; </a>
 </div>
+
 
