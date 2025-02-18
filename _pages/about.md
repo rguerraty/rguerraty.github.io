@@ -50,7 +50,7 @@ Outside of physics, you can find me in the mountains, either on my bike or hikin
       <img src="/assets/images/logos/anid.png" alt="ANID Logo" style="width: 100%; height: auto;">
     </a>
   </figure>
-	<a href="https://sites.google.com/view/cosmology-in-chile/inicio" style="color: black; font-size:16pt; font-family:'Verdana'; font-weight:bold; text-decoration: none; text-align:center;"> Cosmology<br/>in Chile <br/> &nbsp; </a>
+	<a href="https://sites.google.com/view/cosmology-in-chile/inicio" style="color: black; font-size:14pt; font-family:'Verdana'; font-weight:bold; text-decoration: none; text-align:center;"> Cosmology<br/>in Chile <br/> &nbsp; </a>
 </div>
 
 
