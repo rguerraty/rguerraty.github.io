@@ -6,8 +6,9 @@ header:
 classes: wide
 layout: splash
 ---
+I am currently teaching Physics I (Newtonian Physics and Fluid Mechanics) for Civil Engineering at Universidad Católica.
 
-I have taught undergraduate and graduate courses such as General Relativity, Classical Mechanics, Electromagnetism, Newtonian Physics, among others, both for engineering and physics and astronomy programs. 
+Previously, I have taught undergraduate and graduate courses such as General Relativity, Classical Mechanics, Electromagnetism, Newtonian Physics, among others, both for engineering and physics and astronomy programs. 
 
 Resources from my courses will be posted here soon.
 
@@ -28,6 +29,14 @@ Resources from my courses will be posted here soon.
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><strong>Physics I</strong></td>
+      <td>Undergraduate</td>
+      <td>Engineering</td>
+      <td>Lecturer</td>
+      <td>Universidad Católica de Chile</td>
+      <td>Mar 2025 - present</td>
+    </tr>
     <tr>
       <td><strong>Introduction to Newtonian Physics</strong></td>
       <td>Undergraduate</td>
