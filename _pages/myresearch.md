@@ -7,7 +7,7 @@ header:
 layout: splash
 ---
 
-I am a theoretical physicist specializing in various aspects of high-energy physics and gravity, working at the intersection of particle physics, quantum field theory, general relativity, and cosmology. 
+My research encompases various aspects of high-energy physics and gravity, working at the intersection of particle physics, quantum field theory, general relativity, and cosmology. 
 
 My main scientific goal lies in developing theoretical methods to test fundamental physics in phenomenological setups such as cosmology and gravitational waves. 
 
