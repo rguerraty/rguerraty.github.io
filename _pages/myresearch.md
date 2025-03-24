@@ -7,9 +7,9 @@ header:
 layout: splash
 ---
 
-My research encompases various aspects of high-energy physics and gravity, working at the intersection of particle physics, quantum field theory, general relativity, and cosmology. 
+My research encompasses various aspects of high-energy physics and gravity, in particular, the intersection among particle physics, quantum field theory, general relativity, and cosmology. 
 
-My main scientific goal lies in developing theoretical methods to test fundamental physics in phenomenological setups such as cosmology and gravitational waves. 
+My main scientific goal lies in developing theoretical methods to get hints of fundamental physics in phenomenological scenarios such as cosmology and gravitational waves. 
 
 I am currently focused on understanding the symmetries of genuine non-linear perturbations in the simplest models of cosmic inflation and exploring how these connect to observables in the cosmic microwave background (CMB) radiation, the galaxy distribution in the large-scale structure (LSS) of the universe, and the stochastic gravitational wave background (SGWB), as well as their potential impact on the production of primordial black holes. I am also working on how fundamental principles such as locality, unitarity, and causality can theoretically constrain our current effective theories of primordial perturbations, allowing us to compare them with cosmological data. 
 
