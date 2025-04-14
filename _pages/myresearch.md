@@ -116,6 +116,12 @@ An **Effective Field Theory** (EFT) is the description of a physical system by s
     </thead>
     <tbody>
       <tr>
+        <td><em>Unveiling the Primordial Signals of our Universe</em></td>
+        <td><a href="https://fisica.usach.cl/es/nuevo-seminario-de-fisica-junto-al-dr-rafael-bravo-ex-alumno-usach">Physics Department Seminar</a></td>
+        <td>Physics Department, Universidad de Santiago de Chile</td>
+        <td>Seminar</td>
+        <td>April 09, 2022, Santiago, Chile</td>
+      </tr>
         <td><em>Testing the Primordial Signals of our Universe</em></td>
         <td><a href="https://www.instagram.com/p/DC1d8BOJMCF/?utm_source=ig_web_button_share_sheet">High Energy Physics Seminar</a></td>
         <td>Physics Institute, Universidad Católica de Chile</td>
