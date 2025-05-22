@@ -55,6 +55,10 @@ An **Effective Field Theory** (EFT) is the description of a physical system by s
   
   <ol>
     <li>
+      <strong>R. Bravo</strong> and W. Riquelme, <em>“Imprints of Large-Scale Structures in the Anisotropies of the Cosmological Gravitational Wave Background"</em>, 
+      [<a href="https://arxiv.org/abs/2505.15084">arXiv: 2505.15084</a>]
+    </li>
+    <li>
       <strong>R. Bravo</strong> and G. A. Palma, <em>“Unifying attractor and non-attractor models of inflation under a single soft theorem"</em>, 
       <a href="https://doi.org/10.1103/PhysRevD.107.043524"><em>Phys. Rev. D</em> <strong>107</strong>, 043524 (2023)</a>
       [<a href="https://arxiv.org/abs/2009.03369">arXiv: 2009.03369</a>]
