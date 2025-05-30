@@ -121,7 +121,7 @@ An **Effective Field Theory** (EFT) is the description of a physical system by s
     <tbody>
       <tr>
         <td><em>Anisotropies of the Gravitational Wave Background</em></td>
-        <td><a href="https://fisica.usach.cl/es/nuevo-seminario-de-fisica-junto-al-dr-rafael-bravo-ex-alumno-usach">GravUC Seminar</a></td>
+        <td><a href="https://www.instagram.com/p/DKQP13ypG0R/?igsh=ZDE3dmplN3lkaDN0">GravUC Seminar</a></td>
         <td>Physics Institute, Universidad Católica de Chile</td>
         <td>Seminar</td>
         <td>May 30, 2025, Santiago, Chile</td>
