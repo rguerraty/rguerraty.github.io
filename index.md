@@ -12,7 +12,7 @@ classes: wide
 ----------------------------------------
 
 
-I am a theoretical cosmologist and currently a postdoctoral researcher at the Physics Institute of Universidad Católica de Chile.
+I am a theoretical cosmologist and currently a postdoctoral researcher at the Institute of Physics, Pontificia Universidad Católica de Chile.
 
 On this website, you will find useful information about me and my research.
 
