@@ -11,7 +11,7 @@ layout: splash
 
 I am a Chilean physicist working in cosmology.
 
-I received my BSc in Applied Physics from Universidad de Santiago, where, as an undergraduate, I began doing research in mathematical physics, integrable systems and supersymmetric quantum mechanics under the supervision of Professor <a href="https://fisica.postgrado.usach.cl/en/mikhail-plyushchay" style="color: #6f99b0; text-decoration: none;">Mikhail Plyushchay</a>.
+I received my BSc in Applied Physics from Universidad de Santiago, where, as an undergraduate, I began doing research in mathematical physics, integrable systems and supersymmetric quantum mechanics under the mentorship of Professor <a href="https://fisica.postgrado.usach.cl/en/mikhail-plyushchay" style="color: #6f99b0; text-decoration: none;">Mikhail Plyushchay</a>.
 
 For my graduate studies, I moved to Universidad de Chile, where I specialized in early universe cosmology and defended my PhD thesis, <a href="https://repositorio.uchile.cl/handle/2250/181845" style="color: #6f99b0; text-decoration: none;">*"The role of primordial symmetries in the determination of the non-gaussian properties of our universe"*</a>, under the supervision of Professor <a href="https://portafolio-academico.uchile.cl/perfil/46164-Gonzalo-Alejandro-Palma-Quilodrán" style="color: #6f99b0; text-decoration: none;">Gonzalo Palma</a>. As part of my PhD, I spent one year as a guest researcher at the Lorentz Institute for Theoretical Physics at the University of Leiden in the Netherlands, invited by Professor <a href="https://en.wikipedia.org/wiki/Ana_Achúcarro" style="color: #6f99b0; text-decoration: none;">Ana Achúcarro</a>.
 
