@@ -19,7 +19,7 @@ Resources from my courses will be posted here soon.
 &nbsp;
 <table>
   <thead>
-    <tr>
+    <tr style="text-align: center;">
       <th><strong>Course</strong></th>
       <th><strong>Level</strong></th>
       <th><strong>Program</strong></th>
