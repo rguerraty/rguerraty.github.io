@@ -14,7 +14,7 @@ Resources from my courses will be posted here soon.
 
 ----------------------------------------
 
-<details>
+<details open>
   <summary><strong>Teaching Experience</strong></summary>
 &nbsp;
 <table>
