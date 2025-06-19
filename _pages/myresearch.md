@@ -110,7 +110,7 @@ An **Effective Field Theory** (EFT) is the description of a physical system by s
 &nbsp;
   <table>
     <thead>
-      <tr>
+      <tr style="background-color: #d6e4eb;">
         <th><strong>Talk Title</strong></th>
         <th><strong>Event</strong></th>
         <th><strong>Institution</strong></th>

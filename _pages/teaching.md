@@ -19,13 +19,13 @@ Resources from my courses will be posted here soon.
 &nbsp;
 <table>
   <thead>
-    <tr style="text-align: center;">
-      <th><strong>Course</strong></th>
-      <th><strong>Level</strong></th>
+    <tr style="background-color: #ccddcc;">
+      <th style="text-align: center;"><strong>Course</strong></th>
+      <th style="text-align: center;"><strong>Level</strong></th>
       <th><strong>Program</strong></th>
       <th><strong>Role</strong></th>
-      <th><strong>Institution</strong></th>
-      <th><strong>Period</strong></th>
+      <th style="text-align: center;"><strong>Institution</strong></th>
+      <th style="text-align: center;"><strong>Period</strong></th>
     </tr>
   </thead>
   <tbody>
