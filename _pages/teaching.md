@@ -23,7 +23,7 @@ Resources from my courses will be posted here soon.
       <th><strong>Course</strong></th>
       <th><strong>Level</strong></th>
       <th><strong>Program</strong></th>
-      <th><strong>Title</strong></th>
+      <th><strong>Role</strong></th>
       <th><strong>Institution</strong></th>
       <th><strong>Period</strong></th>
     </tr>
