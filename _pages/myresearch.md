@@ -53,6 +53,7 @@ An **Effective Field Theory** (EFT) is the description of a physical system by s
 <details>
   <summary><strong>Publications</strong></summary>
   
+  <div style="font-size: 18px;">
   <ol reversed>
     <li>
       <strong>R. Bravo</strong> and W. Riquelme, <em>“Imprints of Large-Scale Structures in the Anisotropies of the Cosmological Gravitational Wave Background"</em>, 
@@ -86,14 +87,15 @@ An **Effective Field Theory** (EFT) is the description of a physical system by s
       [<a href="https://arxiv.org/abs/1512.09220">arXiv: 1512.09220</a>]
     </li>
   </ol>
+  </div>
 </details>
 ----------------------------------------
 
 <details>
    <summary><strong>Research Grants</strong></summary>
   
-  <div>
-    <ol>
+  <div style="font-size: 18px;">
+    <ol reversed>
       <li>
         <em>"Testing the Primordial Signals of our Universe"</em>, FONDECYT Postdoc. Grant number: 3240730. <strong>PI</strong>: R. Bravo. (2024)
       </li>
@@ -185,4 +187,5 @@ An **Effective Field Theory** (EFT) is the description of a physical system by s
     </tbody>
   </table>
 </details>
+
 
