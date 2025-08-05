@@ -30,7 +30,15 @@ Resources from my courses will be posted here soon.
   </thead>
   <tbody>
     <tr>
-      <td><strong>Physics I</strong></td>
+      <td><strong>Physics 101</strong></td>
+      <td>Undergraduate</td>
+      <td>Sciences</td>
+      <td>Lecturer</td>
+      <td>Universidad Católica de Chile</td>
+      <td>Aug 2025 - present</td>
+    </tr>
+    <tr>
+      <td><strong>Mechanics</strong></td>
       <td>Undergraduate</td>
       <td>Engineering</td>
       <td>Lecturer</td>
