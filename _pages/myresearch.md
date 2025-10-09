@@ -9,7 +9,7 @@ layout: splash
 
 My research encompasses various aspects of high-energy physics and gravity, in particular, the intersection among particle physics, quantum field theory, general relativity, and cosmology. 
 
-My main scientific goal lies in developing theoretical methods to get insights of fundamental physics within phenomenological scenarios in cosmology and gravitational waves. 
+My main scientific goal lies in developing theoretical methods to get insights of fundamental physics within cosmology and gravitational wave phenomenology. 
 
 I am currently focused on understanding the symmetries of genuine non-linear perturbations in the simplest models of cosmic inflation and exploring how these connect to observables in the cosmic microwave background (CMB) radiation, the galaxy distribution in the large-scale structure (LSS) of the universe, and the stochastic gravitational wave background (SGWB), as well as their potential impact on the production of primordial black holes (PBHs). I am also working on how fundamental principles such as locality, unitarity, and causality can theoretically constrain our current effective theories of primordial perturbations, allowing us to compare them with cosmological data. 
 
@@ -46,7 +46,7 @@ I am currently focused on understanding the symmetries of genuine non-linear per
 </figure>
 &nbsp;
 
-An **Effective Field Theory** (EFT) is the description of a physical system by separating degrees of freedom based on energy scales. It starts with a low-energy model, identifies the light particle spectrum, and constructs a UV completion. Assumptions about the fundamental UV theory impose constraints on IR physics. If the full theory follows quantum field theory (QFT) and relativity—specifically unitarity, analyticity, locality, and Lorentz invariance—the S-Matrix must also be unitary, causal, and analytic.
+An **Effective Field Theory** (EFT) is the description of a physical system by separating degrees of freedom based on energy scales. Typically the EFT is a low-energy or infrared (IR) description which may have a high-energy or ultraviolet (UV) completion. Assumptions about the fundamental UV theory impose constraints on IR physics. If the full theory follows quantum field theory (QFT) and relativity—specifically unitarity, analyticity, locality, and Lorentz invariance—the S-Matrix must also be unitary, causal, and analytic.
 <br clear="right">
 
 ----------------------------------------
