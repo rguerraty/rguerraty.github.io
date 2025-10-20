@@ -122,10 +122,10 @@ An **Effective Field Theory** (EFT) is the description of a physical system by s
     </thead>
     <tbody>
       <tr>
-        <td><em>Imprints of LSS in the anisotropies of the CGWB</em></td>
+        <td><em>Imprints of large-scale structures in the anisotropies of the cosmological gravitational wave background/em></td>
         <td><a href="https://events.mcs.cmu.edu/cosmo-25/">COSMO-25</a></td>
         <td>Carnegie Mellon University</td>
-        <td>Seminar</td>
+        <td>Conference</td>
         <td>October 13, 2025, Pittsburgh, PA, United States</td>
       </tr>
       <tr>
