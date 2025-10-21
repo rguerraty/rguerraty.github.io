@@ -179,7 +179,7 @@ An **Effective Field Theory** (EFT) is the description of a physical system by s
         <td>September 01–07, 2019, Benasque, Spain</td>
       </tr>
       <tr>
-        <td><em>Multi-field inflation overcomes the swampland distance conjecture</em></td>
+        <td><em>Multi-field inflation overcomes the swampland distance conjecture <a href="/assets/documents/IAPtalk.pdf" target="_blank"> [slides <i class="fa-regular fa-file-pdf"></i>]</a></em></td>
         <td><a href="https://sites.google.com/view/inflation-geometry-2019/home?authuser=0">Inflation and Geometry</a></td>
         <td>Institut d'Astrophysique de Paris</td>
         <td>Conference</td>
