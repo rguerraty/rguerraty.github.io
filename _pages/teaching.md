@@ -17,6 +17,7 @@ Resources from my courses will be posted here soon.
 <details open>
   <summary><strong>Teaching Experience</strong></summary>
 &nbsp;
+<div style="font-size: 18px;">
 <table>
   <thead>
     <tr style="background-color: #ccddcc;">
@@ -110,7 +111,6 @@ Resources from my courses will be posted here soon.
       <td>Mar 2014 - Aug 2015</td>
     </tr>
   </tbody>
-</table>
-
-
+ </table>
+</div>
 </details>
