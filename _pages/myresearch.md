@@ -123,6 +123,13 @@ An **Effective Field Theory** (EFT) is the description of a physical system by s
     </thead>
     <tbody>
       <tr>
+        <td><em>Positivity Constraints on the EFT of Inflation</em></td>
+        <td><a href="https://www.instagram.com/grav_uc/p/DRhxFkCALq3/">GravUC Seminar</a></td>
+        <td>Physics Institute, Universidad Católica de Chile</td>
+        <td>Seminar</td>
+        <td>Nov 28, 2025, Santiago, Chile</td>
+      </tr>
+      <tr>
         <td><em>Imprints of large-scale structures in the anisotropies of the cosmological gravitational wave background <a href="/assets/documents/lssgw-cosmo25.pdf" target="_blank"> [slides <i class="fa-regular fa-file-pdf"></i>]</a></em></td>
         <td><a href="https://events.mcs.cmu.edu/cosmo-25/">COSMO-25</a></td>
         <td>Carnegie Mellon University</td>
