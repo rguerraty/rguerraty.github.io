@@ -41,7 +41,7 @@ I am currently focused on understanding the symmetries of genuine non-linear per
 
 
 <figure style="width: 34%" class="align-right">
-  <img src="/assets/images/content/eft.png" alt="" align="left" hspace="5">
+  <img src="/assets/images/content/eftqed.png" alt="" align="left" hspace="5">
 <figcaption style="text-align: center; width: 100%; font-family: sans-serif; font-size: .7em; font-weight: lighter;">Feynman diagram of the photon-photon scattering. Left: Full QED (UV). Right: (IR) Low energy EFT</figcaption>
 </figure>
 &nbsp;
