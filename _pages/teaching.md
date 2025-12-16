@@ -6,7 +6,7 @@ header:
 classes: wide
 layout: splash
 ---
-I am currently teaching Physics I (Newtonian Physics and Fluid Mechanics) for Civil Engineering at Universidad Católica.
+I am currently teaching general physics for civil engineering and health sciences majors at Universidad Católica.
 
 Previously, I have taught undergraduate and graduate courses such as General Relativity, Classical Mechanics, Electromagnetism, Newtonian Physics, among others, both for engineering and physics and astronomy programs. 
 
@@ -17,7 +17,7 @@ Resources from my courses will be posted here soon.
 <details open>
   <summary><strong>Teaching Experience</strong></summary>
 &nbsp;
-<div style="font-size: 18px;">
+<div style="font-size: 20px;">
 <table>
   <thead>
     <tr style="background-color: #ccddcc;">
