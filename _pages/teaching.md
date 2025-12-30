@@ -17,7 +17,7 @@ Resources from my courses will be posted here soon.
 <details open>
   <summary><strong>Teaching Experience</strong></summary>
 &nbsp;
-<div style="font-size: 20px;">
+<div style="font-size: 22px;">
 <table>
   <thead>
     <tr style="background-color: #ccddcc;">
@@ -36,7 +36,7 @@ Resources from my courses will be posted here soon.
       <td>Sciences</td>
       <td>Lecturer</td>
       <td>Universidad Católica de Chile</td>
-      <td>Aug 2025 - present</td>
+      <td>Aug 2025 - Dec 2025</td>
     </tr>
     <tr>
       <td><strong>Mechanics</strong></td>
@@ -44,7 +44,7 @@ Resources from my courses will be posted here soon.
       <td>Engineering</td>
       <td>Lecturer</td>
       <td>Universidad Católica de Chile</td>
-      <td>Mar 2025 - present</td>
+      <td>Mar 2025 - Dec 2025</td>
     </tr>
     <tr>
       <td><strong>Introduction to Newtonian Physics</strong></td>
