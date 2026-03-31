@@ -6,7 +6,7 @@ header:
 classes: wide
 layout: splash
 ---
-I am currently teaching general physics for civil engineering and health sciences majors at Universidad Católica.
+I teach general physics courses at Pontificia Universidad Católica de Chile, with experience across civil engineering and health sciences programs.
 
 Previously, I have taught undergraduate and graduate courses such as General Relativity, Classical Mechanics, Electromagnetism, Newtonian Physics, among others, both for engineering and physics and astronomy programs. 
 
@@ -114,3 +114,39 @@ Resources from my courses will be posted here soon.
  </table>
 </div>
 </details>
+
+
+---
+<details open> 
+  <summary><strong> Material Docente </strong></summary>
+&nbsp;
+
+<details>
+  <summary>&nbsp;&nbsp;&nbsp;<strong>Física I — FIS1510 (Construcción civil, UC 2025-02)</strong></summary>
+<div style="font-size: 22px;">
+<ul>
+  <li><a href="/assets/teaching/FIS1510/clases-fis1510.pdf">Clases</a></li>
+  <li><a href="/assets/teaching/FIS1510/control1.pdf">Control I</a> &nbsp;|&nbsp; <a href="/assets/teaching/FIS1510/midterm1.pdf">Interrogación I</a></li>
+  <li><a href="/assets/teaching/FIS1510/control2.pdf">Control II</a> &nbsp;|&nbsp; <a href="/assets/teaching/FIS1510/midterm2.pdf">Interrogación II</a></li>
+  <li><a href="/assets/teaching/FIS1510/control3.pdf">Control III</a> &nbsp;|&nbsp; <a href="/assets/teaching/FIS1510/midterm3.pdf">Interrogación III</a></li>
+  <li><a href="/assets/teaching/FIS1510/final.pdf">Examen</a></li>
+</ul>
+</div>
+</details>
+
+<details>
+  <summary>&nbsp;&nbsp;&nbsp;<strong>Física — FIS109K (Ciencias de la salud, UC 2025-02)</strong></summary>
+<div style="font-size: 22px;">
+<ul>
+  <li><a href="/assets/teaching/FIS109K/clases-fis109k.pdf">Clases</a></li>
+  <li><a href="/assets/teaching/FIS109K/control1.pdf">Control I</a> &nbsp;|&nbsp; <a href="/assets/teaching/FIS109K/midterm1.pdf">Interrogación I</a></li>
+  <li><a href="/assets/teaching/FIS109K/control2.pdf">Control II</a> &nbsp;|&nbsp; <a href="/assets/teaching/FIS109K/midterm2.pdf">Interrogación II</a></li>
+  <li><a href="/assets/teaching/FIS109K/control3.pdf">Control III</a> &nbsp;|&nbsp; <a href="/assets/teaching/FIS109K/midterm3.pdf">Interrogación III</a></li>
+  <li><a href="/assets/teaching/FIS109K/final.pdf">Examen</a></li>
+</ul>
+</div>
+</details>
+
+</details>
+
+
