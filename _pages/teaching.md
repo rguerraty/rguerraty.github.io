@@ -125,7 +125,7 @@ Resources from my courses will be posted here soon.
   <summary>&nbsp;&nbsp;&nbsp;<strong>Física I — FIS1510 (Construcción civil, UC 2025-02)</strong></summary>
 <div style="font-size: 22px;">
 <ul>
-  <li><a href="/assets/teaching/FIS1510/clases-fis1510.pdf">Clases</a></li>
+  <li><a href="/assets/teaching/FIS1510/clases-fis1510.pdf">Resúmen de contenidos</a></li>
   <li><a href="/assets/teaching/FIS1510/control1.pdf">Control I</a> &nbsp;|&nbsp; <a href="/assets/teaching/FIS1510/midterm1.pdf">Interrogación I</a></li>
   <li><a href="/assets/teaching/FIS1510/control2.pdf">Control II</a> &nbsp;|&nbsp; <a href="/assets/teaching/FIS1510/midterm2.pdf">Interrogación II</a></li>
   <li><a href="/assets/teaching/FIS1510/control3.pdf">Control III</a> &nbsp;|&nbsp; <a href="/assets/teaching/FIS1510/midterm3.pdf">Interrogación III</a></li>
@@ -138,7 +138,7 @@ Resources from my courses will be posted here soon.
   <summary>&nbsp;&nbsp;&nbsp;<strong>Física — FIS109K (Ciencias de la salud, UC 2025-02)</strong></summary>
 <div style="font-size: 22px;">
 <ul>
-  <li><a href="/assets/teaching/FIS109K/clases-fis109k.pdf">Clases</a></li>
+  <li><a href="/assets/teaching/FIS109K/clases-fis109k.pdf">Resúmen de contenidos</a></li>
   <li><a href="/assets/teaching/FIS109K/control1.pdf">Control I</a> &nbsp;|&nbsp; <a href="/assets/teaching/FIS109K/midterm1.pdf">Interrogación I</a></li>
   <li><a href="/assets/teaching/FIS109K/control2.pdf">Control II</a> &nbsp;|&nbsp; <a href="/assets/teaching/FIS109K/midterm2.pdf">Interrogación II</a></li>
   <li><a href="/assets/teaching/FIS109K/control3.pdf">Control III</a> &nbsp;|&nbsp; <a href="/assets/teaching/FIS109K/midterm3.pdf">Interrogación III</a></li>
