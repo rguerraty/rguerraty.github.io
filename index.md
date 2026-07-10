@@ -2,7 +2,7 @@
 permalink: /
 header:
   image: "/assets/images/andes.jpeg"
-  caption: "View of the Chilean Andes from Santiago"
+  caption: "Central Andes"
 layout: single
 author_profile: true
 classes: wide
