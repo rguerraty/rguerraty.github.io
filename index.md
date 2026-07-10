@@ -20,9 +20,9 @@ On this website, you will find useful information about me and my research.
 ----------------------------------------
 
 <div id="map-container">
-    <script 
-        type="text/javascript" 
-        id="clustrmaps" 
-        src="//cdn.clustrmaps.com/map_v2.js?cl=dbdbdb&w=380&t=n&d=2HYtPSKFus7jrqVYFHOqRaCPyFzeZ7V9rm6Q1z2qkrg&co=f3f3f3&cmo=ab6700&cmn=ff9a02">
-    </script>
+    <script
+	 type='text/javascript' 
+	 id='mapmyvisitors' 
+	 src='https://mapmyvisitors.com/map.js?cl=dbdbdb&w=400&t=tt&d=Q3fjA-lT7axmrJAxLvUg0SNYMLV8WlcgoibJh57aPAM&co=f3f3f3&cmo=ff9a02&ct=808080'>
+</script>
 </div>
