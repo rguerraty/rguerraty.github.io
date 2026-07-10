@@ -20,9 +20,10 @@ On this website, you will find useful information about me and my research.
 ----------------------------------------
 
 <div id="map-container">
-    <script
-	 type='text/javascript' 
-	 id='mapmyvisitors' 
-	 src='https://mapmyvisitors.com/map.js?cl=dbdbdb&w=400&t=tt&d=Q3fjA-lT7axmrJAxLvUg0SNYMLV8WlcgoibJh57aPAM&co=f3f3f3&cmo=ff9a02&ct=808080'>
-</script>
+    <script 
+		type='text/javascript' 
+		id='mapmyvisitors' 
+		src='https://mapmyvisitors.com/map.js?cl=dbdbdb&w=320&t=n&d=Q3fjA-lT7axmrJAxLvUg0SNYMLV8WlcgoibJh57aPAM&co=f3f3f3&cmo=ff9a02&ct=808080'>
+    </script>
 </div>
+
