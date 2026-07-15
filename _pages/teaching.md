@@ -118,7 +118,7 @@ Resources from my courses will be posted here soon.
 
 ---
 <details open> 
-  <summary><strong> Material Docente </strong></summary>
+  <summary><strong> Teaching Resources </strong></summary>
 &nbsp;
 
 <details>
