@@ -31,6 +31,14 @@ Resources from my courses will be posted here soon.
   </thead>
   <tbody>
     <tr>
+      <td><strong>Electromagnetism</strong></td>
+      <td>Undergraduate</td>
+      <td>Engineering</td>
+      <td>Lecturer</td>
+      <td>Universidad Católica de Chile</td>
+      <td>Aug 2026 - Today</td>
+    </tr>
+    <tr>
       <td><strong>Physics 101</strong></td>
       <td>Undergraduate</td>
       <td>Sciences</td>
