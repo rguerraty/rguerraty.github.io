@@ -130,6 +130,15 @@ Resources from my courses will be posted here soon.
 &nbsp;
 
 <details>
+  <summary>&nbsp;&nbsp;&nbsp;<strong>Electromagnetismo — FIS1533 (Ingeniería, UC 2026-02)</strong></summary>
+<div style="font-size: 22px;">
+<ul>
+  <li><a href="/assets/teaching/FIS1533/FIS1533-Resumen02.pdf">Apuntes de clases</a></li>
+</ul>
+</div>
+</details>
+
+<details>
   <summary>&nbsp;&nbsp;&nbsp;<strong>Física I — FIS1510 (Construcción civil, UC 2025-02)</strong></summary>
 <div style="font-size: 22px;">
 <ul>
