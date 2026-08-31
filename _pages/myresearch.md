@@ -133,7 +133,7 @@ An **Effective Field Theory** (EFT) is the description of a physical system by s
         <td>Aug 26, 2026, Leiden,  The Netherlands</td>
       </tr>
       <tr>
-        <td><em>An Introduction to EFTs in Cosmology</em></td>
+        <td><em>An Introduction to EFTs in Cosmology <a href="/assets/teaching/EFTs/EFT_Notes.pdf" target="_blank"> [Notes <i class="fa-regular fa-file-pdf"></i>]</a></em></td>
         <td><a href="https://sites.google.com/view/gravuc/">GravUC Winter School and Workshop 2026</a></td>
         <td>Universidad Católica de Chile</td>
         <td>School</td>
@@ -147,7 +147,7 @@ An **Effective Field Theory** (EFT) is the description of a physical system by s
         <td>Nov 28, 2025, Santiago, Chile</td>
       </tr>
       <tr>
-        <td><em>Imprints of large-scale structures in the anisotropies of the cosmological gravitational wave background <a href="/assets/documents/lssgw-cosmo25.pdf" target="_blank"> [slides <i class="fa-regular fa-file-pdf"></i>]</a></em></td>
+        <td><em>Imprints of large-scale structures in the anisotropies of the cosmological gravitational wave background <a href="/assets/		documents/lssgw-cosmo25.pdf" target="_blank"> [slides <i class="fa-regular fa-file-pdf"></i>]</a></em></td>
         <td><a href="https://events.mcs.cmu.edu/cosmo-25/">COSMO-25</a></td>
         <td>Carnegie Mellon University</td>
         <td>Conference</td>

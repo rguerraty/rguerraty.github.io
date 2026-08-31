@@ -130,6 +130,15 @@ Resources from my courses will be posted here soon.
 &nbsp;
 
 <details>
+  <summary>&nbsp;&nbsp;&nbsp;<strong>Introduction to Effective Theories in Cosmology</strong></summary>
+<div style="font-size: 22px;">
+<ul>
+  <li><a href="/assets/teaching/EFTs/EFT_Notes.pdf">Notes</a></li>
+</ul>
+</div>
+</details>
+
+<details>
   <summary>&nbsp;&nbsp;&nbsp;<strong>Electromagnetismo — FIS1533 (Ingeniería, UC 2026-02)</strong></summary>
 <div style="font-size: 22px;">
 <ul>
