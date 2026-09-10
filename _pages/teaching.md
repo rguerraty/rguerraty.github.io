@@ -6,11 +6,11 @@ header:
 classes: wide
 layout: splash
 ---
-I teach general physics courses at Pontificia Universidad Católica de Chile, with experience across civil engineering and health sciences programs.
+I teach general physics courses at Pontificia Universidad Católica de Chile. 
 
-Previously, I have taught undergraduate and graduate courses such as General Relativity, Classical Mechanics, Electromagnetism, Newtonian Physics, among others, both for engineering and physics and astronomy programs. 
+I have taught undergraduate and graduate courses such as General Relativity, Classical Mechanics, Electromagnetism, Newtonian Physics, among others, both for engineering and physics and astronomy programs. 
 
-Resources from my courses will be posted here soon.
+Resources from my courses are constantly posted here (mostly in Spanish).
 
 ----------------------------------------
 
