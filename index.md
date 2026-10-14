@@ -2,7 +2,7 @@
 permalink: /
 header:
   image: "/assets/images/andes.jpeg"
-  caption: "Central Andes"
+  caption: "Central Andes - SCL"
 layout: single
 author_profile: true
 classes: wide
