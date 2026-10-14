@@ -129,10 +129,9 @@ An **Effective Field Theory** (EFT) is the description of a physical system by s
         <td>Conference</td>
         <td>October 09, 2026, Valparaíso, Chile</td>
       </tr>
-	<tr>
       <tr>
         <td><em>Positivity Constraints on the EFT of Inflation 
-	<a href="/assets/images/cosmo26-1.jpeg" data-lightbox="image-set" data-title="Talk 1"> [Photos <i class="fa-regular fa-images"></i>] </a><a 	href="/assets/images/cosmo26-2.jpeg" data-lightbox="image-set" data-title="Talk 2"></a>
+	<a href="/assets/images/cosmo26-1.jpeg" data-lightbox="image-set" data-title="Talk 1"> [Photos <i class="fa-regular fa-images"></i>] </a><a href="/assets/images/cosmo26-2.jpeg" data-lightbox="image-set" data-title="Talk 2"></a>
 	<a href="/assets/documents/COSMO-26.pdf" target="_blank"> [slides <i class="fa-regular fa-file-pdf"></i>]</a></em></td>
         <td><a href="https://cosmo-26.lorentz.leidenuniv.nl/program.html">COSMO-26</a>
 	</td>
@@ -155,7 +154,7 @@ An **Effective Field Theory** (EFT) is the description of a physical system by s
         <td>Nov 28, 2025, Santiago, Chile</td>
       </tr>
       <tr>
-        <td><em>Imprints of large-scale structures in the anisotropies of the cosmological gravitational wave background <a href="/assets/		documents/lssgw-cosmo25.pdf" target="_blank"> [slides <i class="fa-regular fa-file-pdf"></i>]</a></em></td>
+        <td><em>Imprints of large-scale structures in the anisotropies of the cosmological gravitational wave background <a href="/assets/documents/lssgw-cosmo25.pdf" target="_blank"> [slides <i class="fa-regular fa-file-pdf"></i>]</a></em></td>
         <td><a href="https://events.mcs.cmu.edu/cosmo-25/">COSMO-25</a></td>
         <td>Carnegie Mellon University</td>
         <td>Conference</td>
