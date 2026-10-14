@@ -41,12 +41,12 @@ I am currently focused on understanding the symmetries of genuine non-linear per
 
 
 <figure style="width: 34%" class="align-right">
-  <img src="/assets/images/content/qedeft.jpg" alt="" align="left" hspace="5">
-<figcaption style="text-align: center; width: 100%; font-family: sans-serif; font-size: .7em; font-weight: lighter;">Feynman diagrams of the photon-photon scattering. Left: one loop high-energy process (UV). Right: contact interaction in the EFT at low energies (IR).</figcaption>
+  <img src="/assets/images/content/qedeft1.jpg" alt="" align="left" hspace="5">
+<figcaption style="text-align: center; width: 100%; font-family: sans-serif; font-size: .7em; font-weight: lighter;">Photon-photon scattering. Left: contact interaction in the EFT at low energies (IR). Right: one loop high-energy process (UV). </figcaption>
 </figure>
 &nbsp;
 
-An **Effective Field Theory** (EFT) is the description of a physical system by separating degrees of freedom based on energy scales. Typically the EFT is a low-energy or infrared (IR) description which may have a high-energy or ultraviolet (UV) completion. Assumptions about the fundamental UV theory impose constraints on IR physics. If the full theory follows quantum field theory (QFT) and relativity—specifically unitarity, analyticity, locality, and Lorentz invariance—the S-Matrix must also be unitary, causal, and analytic.
+An **Effective Field Theory** (EFT) is the description of a physical system by separating degrees of freedom based on energy scales. Typically the EFT is a low-energy or infrared (IR) description which may have a high-energy or ultraviolet (UV) completion. Assumptions about the fundamental UV theory may impose constrains on IR physics. In particular, if the UV theory is unitary, causal, local, and Lorentz invariant, then, the signs of the Wilson coefficients are not arbitrary. 
 <br clear="right">
 
 ----------------------------------------
