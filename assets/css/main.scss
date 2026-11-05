@@ -8,6 +8,14 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+/* Global font size */
+html {
+  font-size: 15px;
+}
+
+body {
+  font-size: 15px;
+}
 
 /* Global font thickness */
 body {
